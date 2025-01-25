@@ -1,0 +1,12 @@
+{
+	"version": "0.1.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "com.test.app.Main",
+			"projectName": "Exercice1_770969bc"
+		}
+	]
+}
